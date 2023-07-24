@@ -1,0 +1,18 @@
+{
+	"AchievementIDs":[],
+	"LeaderboardIDs":[
+		{
+			"InternalID":"JumpyTurtleHighScore",
+			"AppleID":"com.unKnown.HighScoreLeaderboard",
+			"GoogleID":""
+		}
+	],
+	"CloudVariables":[],
+	"AppleSupported":true,
+	"GoogleSupported":false,
+	"GoogleAppID":"99542530096",
+	"GoogleSetupRun":false,
+	"DebugModeEnabled":false,
+	"Version":"2.6.8",
+	"SettingsLocation":"0"
+}

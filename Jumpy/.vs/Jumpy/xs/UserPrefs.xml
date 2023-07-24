@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{1D9930DA-A50B-D80C-A2F2-B52A4A838107}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Menu/InfiniteLoop.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Menu/InfiniteLoop.cs" Line="34" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Jumpy" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Menu" expanded="True">
+                  <Node name="InfiniteLoop.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8097983f-b0da-471d-9893-12ceeb29dd00" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
